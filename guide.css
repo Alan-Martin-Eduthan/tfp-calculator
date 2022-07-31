@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+ol{
+    font-size: 28px;
+}
+
+div{
+    width: fit-content;
+    padding: 20px;
+    border-radius: 25px;
+    background-color: lightgrey;
+}
